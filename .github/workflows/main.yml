@@ -1,4 +1,4 @@
-name: CI
+name: Atividade Somativa - DevOps
 
 on:
   push:
